@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HolidayApp</string>
+    <string name="mainTitle">Holiday Countdown App</string>
+    <string name="mainIntro">
+        Welcome to our App! Here, you will be able\n
+        to view the countdown from now to a selected holiday.
+    </string>
+    <string name ="choice">Countdown From Which Holiday?</string>
+    <string name="christmas">Christmas</string>
+    <string name="halloween">Halloween</string>
+    <string name="New_Years">New Years</string>
+    <string name="Easter">Easter</string>
+    <string name="JulyFourth">Fourth of July</string>
+    <string name="GoHome">Home</string>
+
+    <string name="untilChristmas">Days Until Christmas</string>
+</resources>
